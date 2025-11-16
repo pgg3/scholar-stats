@@ -1,13 +1,16 @@
 {
-  "name": "Ping Guo",
-  "affiliation": "City University of Hong Kong",
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts"
+  ],
   "scholar_id": "bFWv-bAAAAAJ",
-  "citedby": 115,
-  "citedby5y": 115,
-  "hindex": 5,
-  "hindex5y": 5,
-  "i10index": 3,
-  "i10index5y": 3,
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ping Guo",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=bFWv-bAAAAAJ&citpid=6",
+  "affiliation": "City University of Hong Kong",
+  "organization": 6442500540992846260,
   "interests": [
     "Computational Intelligence",
     "Artificial Intelligence",
@@ -15,38 +18,18 @@
   ],
   "email_domain": "@my.cityu.edu.hk",
   "homepage": "https://guo-ping.com/",
+  "citedby": 127,
+  "citedby5y": 127,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 3,
+  "i10index5y": 3,
   "cites_per_year": {
     "2021": 1,
     "2022": 3,
     "2023": 6,
     "2024": 34,
-    "2025": 71
+    "2025": 83
   },
-  "publications": {
-    "main_survey": {
-      "title": "A systematic survey on large language models for algorithm design",
-      "year": "2024",
-      "citations": 41
-    },
-    "stars_gps": {
-      "title": "Stars can tell: a robust method to defend against GPS spoofing attacks",
-      "year": "2021",
-      "citations": 37
-    },
-    "l_autoda": {
-      "title": "L-autoda: Large language models for automatically evolving decision-based adversarial attacks",
-      "year": "2024",
-      "citations": 19
-    },
-    "mos_attack": {
-      "title": "MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework",
-      "year": "2025",
-      "citations": 0
-    }
-  },
-  "updated": "2025-11-16 11:21:33.908480",
-  "fallback_mode": true,
-  "note": "Using cached data due to Scholar API limitations",
-  "fallback_reason": "'NoneType' object has no attribute 'get'",
-  "fetch_duration": 6.8991639614105225
+  "updated": "2025-11-16 19:25:54.461575"
 }
