@@ -1,0 +1,35 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "bFWv-bAAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ping Guo",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=bFWv-bAAAAAJ&citpid=6",
+  "affiliation": "City University of Hong Kong",
+  "organization": 6442500540992846260,
+  "interests": [
+    "Computational Intelligence",
+    "Artificial Intelligence",
+    "Optimization"
+  ],
+  "email_domain": "@my.cityu.edu.hk",
+  "homepage": "https://guo-ping.com/",
+  "citedby": 115,
+  "citedby5y": 115,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 3,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2021": 1,
+    "2022": 3,
+    "2023": 6,
+    "2024": 34,
+    "2025": 71
+  },
+  "updated": "2025-09-28 23:59:10.807518"
+}
