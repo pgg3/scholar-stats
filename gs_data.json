@@ -18,8 +18,8 @@
   ],
   "email_domain": "@my.cityu.edu.hk",
   "homepage": "https://guo-ping.com/",
-  "citedby": 129,
-  "citedby5y": 129,
+  "citedby": 127,
+  "citedby5y": 127,
   "hindex": 5,
   "hindex5y": 5,
   "i10index": 3,
@@ -29,7 +29,11 @@
     "2022": 3,
     "2023": 6,
     "2024": 34,
-    "2025": 85
+    "2025": 83
   },
-  "updated": "2025-12-03 08:06:00.120683"
+  "updated": "2025-12-04 08:06:20.292477",
+  "fallback_mode": true,
+  "note": "Using cached data due to Scholar API limitations",
+  "fallback_reason": "'NoneType' object has no attribute 'get'",
+  "fetch_duration": 12.352987289428711
 }
